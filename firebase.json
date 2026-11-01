@@ -1,5 +1,6 @@
 {
   "hosting": {
+    "site": "tiennd-trip",
     "public": "dist/trip-booking/browser",
     "ignore": ["firebase.json", "**/.*", "**/node_modules/**"],
     "rewrites": [{ "source": "**", "destination": "/index.html" }]
