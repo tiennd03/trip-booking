@@ -4,7 +4,7 @@ A four-step tour booking flow for a fictional travel agency: choose a tour and d
 
 Built to show what Angular **reactive forms** can do: nested typed groups, a dynamic `FormArray`, custom sync and async validators, a custom form control (`ControlValueAccessor`), autosaved drafts and an unsaved-changes guard.
 
-> **Live demo:** _add your deployed URL here_ · Demo only — no real bookings or payments.
+> **Live demo:** [https://tiennd-trip.web.app](https://tiennd-trip.web.app/)· Demo only — no real bookings or payments.
 
 ## Features
 
